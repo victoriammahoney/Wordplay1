@@ -16,6 +16,7 @@
 		9CA7BEB527ED0149006380C1 /* Wordplay1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA7BEB427ED0149006380C1 /* Wordplay1Tests.swift */; };
 		9CA7BEBF27ED0149006380C1 /* Wordplay1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA7BEBE27ED0149006380C1 /* Wordplay1UITests.swift */; };
 		9CA7BEC127ED0149006380C1 /* Wordplay1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA7BEC027ED0149006380C1 /* Wordplay1UITestsLaunchTests.swift */; };
+		9CA7BECE27EE2AFC006380C1 /* SentenceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA7BECD27EE2AFC006380C1 /* SentenceViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		9CA7BEBA27ED0149006380C1 /* Wordplay1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Wordplay1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CA7BEBE27ED0149006380C1 /* Wordplay1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wordplay1UITests.swift; sourceTree = "<group>"; };
 		9CA7BEC027ED0149006380C1 /* Wordplay1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wordplay1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9CA7BECD27EE2AFC006380C1 /* SentenceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SentenceViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				9CA7BE9D27ED0148006380C1 /* AppDelegate.swift */,
 				9CA7BE9F27ED0148006380C1 /* SceneDelegate.swift */,
+				9CA7BECD27EE2AFC006380C1 /* SentenceViewController.swift */,
 				9CA7BEA127ED0148006380C1 /* ViewController.swift */,
 				9CA7BEA327ED0148006380C1 /* Main.storyboard */,
 				9CA7BEA627ED0149006380C1 /* Assets.xcassets */,
@@ -261,6 +264,7 @@
 				9CA7BEA227ED0148006380C1 /* ViewController.swift in Sources */,
 				9CA7BE9E27ED0148006380C1 /* AppDelegate.swift in Sources */,
 				9CA7BEA027ED0148006380C1 /* SceneDelegate.swift in Sources */,
+				9CA7BECE27EE2AFC006380C1 /* SentenceViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
