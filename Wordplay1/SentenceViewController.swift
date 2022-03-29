@@ -11,6 +11,8 @@ class SentenceViewController: UIViewController {
     
     
     @IBOutlet weak var finishedSentenceLabel: UILabel!
+ 
+    
     
     var nouns = String()
     var adjectives = String()
